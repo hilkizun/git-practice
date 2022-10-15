@@ -1,3 +1,4 @@
 Name: Prueba Ironhack
-Music: Airbag
+Group: Airbag
 Style: Pop-punk
+Next Concert: 2023
